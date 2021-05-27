@@ -1,5 +1,5 @@
 # etopalli.github.io
 
-## h2 Personal page
+## Personal page
 
 
